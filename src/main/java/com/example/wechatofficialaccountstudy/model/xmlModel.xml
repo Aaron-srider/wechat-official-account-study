@@ -1,0 +1,40 @@
+<xml>
+    <!--地理位置-->
+    <!--接收-->
+    <ToUserName><![CDATA[toUser]]></ToUserName>
+    <FromUserName><![CDATA[fromUser]]></FromUserName>
+    <CreateTime>1351776360</CreateTime>
+    <MsgType><![CDATA[location]]></MsgType>
+    <Location_X>23.134521</Location_X>
+    <Location_Y>113.358803</Location_Y>
+    <Scale>20</Scale>
+    <Label><![CDATA[位置信息]]></Label>
+    <MsgId>1234567890123456</MsgId>
+
+    <!--文本-->
+    <!--接收-->
+    <ToUserName><![CDATA[toUser]]></ToUserName>
+    <FromUserName><![CDATA[fromUser]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[this is a test]]></Content>
+    <MsgId>1234567890123456</MsgId>
+
+    <!--回复-->
+    <ToUserName><![CDATA[toUser]]></ToUserName>
+    <FromUserName><![CDATA[fromUser]]></FromUserName>
+    <CreateTime>12345678</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[你好]]></Content>
+
+
+    <!--模板消息通知-->
+    <ToUserName><![CDATA[gh_7f083739789a]]></ToUserName>
+    <FromUserName><![CDATA[oia2TjuEGTNoeX76QEjQNrcURxG8]]></FromUserName>
+    <CreateTime>1395658920</CreateTime>
+    <MsgType><![CDATA[event]]></MsgType>
+    <Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+    <MsgID>200163836</MsgID>
+    <Status><![CDATA[success]]></Status>
+</xml>
+
